@@ -1,0 +1,19 @@
+seed: 42
+
+date_range:
+  start: "2024-01-01"
+  end: "2024-12-31"
+
+volumes:
+  clientes: 10000
+  productos: 50
+  movimientos: 500000
+  obligaciones: 30000
+  sucursales: 200
+  comisiones: 80000
+
+null_percentage: 0.05
+
+output_formats:
+  - csv
+  - parquet
