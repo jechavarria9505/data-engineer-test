@@ -3,3 +3,7 @@ numpy
 faker
 pyyaml
 pyarrow
+azure-identity
+azure-keyvault-secrets
+sqlalchemy
+pyodbc
